@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/postgres": "^0.7.2",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
