@@ -1,9 +1,9 @@
-import RegisterForm from "./form";
+import RegisterForm from "./register-form";
 
 export default function RegisterPage() {
   return (
-    <div>
-      <h1>Register</h1>
+    <div className="mx-auto">
+      <h1 className="text-2xl text-center mt-20<">Register Page</h1>
       <RegisterForm />
     </div>
   );
