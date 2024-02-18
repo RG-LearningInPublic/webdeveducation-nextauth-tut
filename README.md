@@ -13,3 +13,8 @@ Following [WebDevEducation Youtube Channel](https://www.youtube.com/@WebDevEduca
 ## Added Components
 
 - [shadcn/ui](https://ui.shadcn.com/)
+
+## Next Steps
+
+- [ ] Improve authorization: support user roles
+- [ ] Implement input validation: try zod
